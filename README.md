@@ -1,6 +1,6 @@
 # Технико-экономическое обоснование проекта по разработке АИС «Управление таксомоторной компанией».
 
-![Taxi](https://github.com/Farstarx/taxopark/taxi-logo.jpg "Taxi")
+![Taxi](https://github.com/Farstarx/taxopark/blob/master/taxi-logo.jpg "Taxi")
 
 1. [Цели и задачи АИС](01.md)
 
